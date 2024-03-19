@@ -56,14 +56,14 @@ languages = ["Bengali", "Gujarati", "Hindi", "Kannada", "Malayalam", "Odia", "Pu
 embeddings = []
 
 models = {
-        'Tamil' : 'callmesan/vakyansh-wav2vec2-tamil-tam-250-audio-abuse-feature',
-        'Hindi' : 'callmesan/vakyansh-wav2vec2-hindi-him-4200-audio-abuse-feature',
-        'Gujarati' : 'callmesan/vakyansh-wav2vec2-gujarati-gnm-100-audio-abuse-feature',
-        'Kannada' : 'callmesan/vakyansh-wav2vec2-kannada-knm-560-audio-abuse-feature',
-        'Bengali' : 'callmesan/vakyansh-wav2vec2-bengali-bnm-200-audio-abuse-feature',
-        'Punjabi' : 'callmesan/vakyansh-wav2vec2-punjabi-pam-10-audio-abuse-feature',
-        'Odia' : 'callmesan/vakyansh-wav2vec2-odia-orm-100-audio-abuse-feature',
-        'Malayalam' : 'callmesan/vakyansh-wav2vec2-malayalam-mlm-8-audio-abuse-feature',
+        'Tamil' : 'Harveenchadha/vakyansh-wav2vec2-tamil-tam-250',
+        'Hindi' : 'Harveenchadha/hindi_base_wav2vec2',
+        'Gujarati' : 'Harveenchadha/vakyansh-wav2vec2-gujarati-gnm-100',
+        'Kannada' : 'Harveenchadha/vakyansh-wav2vec2-kannada-knm-560',
+        'Bengali' : 'Harveenchadha/vakyansh-wav2vec2-bengali-bnm-200',
+        'Punjabi' : 'Harveenchadha/vakyansh-wav2vec2-punjabi-pam-10',
+        'Odia' : 'Harveenchadha/vakyansh-wav2vec2-odia-orm-100',
+        'Malayalam' : 'Harveenchadha/vakyansh-wav2vec2-malayalam-mlm-8',
     }
 
 
