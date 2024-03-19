@@ -1,0 +1,1 @@
+Please Download the data from the link given by ShareChat.
