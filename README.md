@@ -11,7 +11,7 @@ Furthermore, this research investigates the hypothesis that there may be un- der
 
 **Note**: These are non-refactored codes, so they are not the most optimal for deployment. So, please use this code for your use with discretion.
 
-## Citation
+<!-- ## Citation
 
 If you use this study in any of your works, cite this study using
 ```
@@ -21,4 +21,4 @@ If you use this study in any of your works, cite this study using
     abstract = {},
     date = {}
 }
-```
+``` -->
