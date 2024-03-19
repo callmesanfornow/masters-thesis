@@ -1,1 +1,1 @@
-Please Download the data from the link given by ShareChat.
+Please Download the data from the link given by [ShareChat](https://github.com/ShareChatAI/ADIMA).
